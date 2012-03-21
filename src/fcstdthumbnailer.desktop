@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+Name=FreeCAD Standard Files
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=application/x-extension-fcstd
+X-KDE-Library=fcstdthumbnailer
+CacheThumbnail=true
+IgnoreMaximumSize=true

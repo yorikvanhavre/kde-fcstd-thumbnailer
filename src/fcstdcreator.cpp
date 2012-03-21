@@ -1,8 +1,9 @@
 /*
- *   Copyright (C) 2010
- *   by Ariel Constenla-Haile <ariel.constenla.haile@gmail.com>
+ *  Copyright (C) 2012
+ *  by Yorik van Havre <yorik@uncreated.net>
+ *  based on the Kde ODF thumbnailer by Ariel Constenla-Haile
  *
- * This file is part of OpenDocument Thumbnail Creator.
+ * This file is part of Fcstd Thumbnail Creator.
  *
  * This is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License version 3
